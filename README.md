@@ -1,6 +1,4 @@
 # practicerepo
-
-
 from the root directory, npm install
 from /frontend npm install
 cd backend 
