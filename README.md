@@ -10,3 +10,7 @@ venv\Scripts\activate
 pip install flask flask-pymongo
 
 update app.py to use your mongodb 
+
+npm run start
+npm run start-frontend
+npm run start-backend
